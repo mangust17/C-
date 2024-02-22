@@ -1,0 +1,8 @@
+c:\Users\329191-11\source\repos\Lab1\LibTime\bin\Debug\netstandard1.4\LibTime.deps.json
+c:\Users\329191-11\source\repos\Lab1\LibTime\bin\Debug\netstandard1.4\LibTime.dll
+c:\Users\329191-11\source\repos\Lab1\LibTime\bin\Debug\netstandard1.4\LibTime.pdb
+c:\Users\329191-11\source\repos\Lab1\LibTime\obj\Debug\netstandard1.4\LibTime.csprojAssemblyReference.cache
+c:\Users\329191-11\source\repos\Lab1\LibTime\obj\Debug\netstandard1.4\LibTime.csproj.CoreCompileInputs.cache
+c:\Users\329191-11\source\repos\Lab1\LibTime\obj\Debug\netstandard1.4\LibTime.AssemblyInfo.cs
+c:\Users\329191-11\source\repos\Lab1\LibTime\obj\Debug\netstandard1.4\LibTime.dll
+c:\Users\329191-11\source\repos\Lab1\LibTime\obj\Debug\netstandard1.4\LibTime.pdb

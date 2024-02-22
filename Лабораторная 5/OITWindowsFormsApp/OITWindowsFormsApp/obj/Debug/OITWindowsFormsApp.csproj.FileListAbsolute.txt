@@ -1,0 +1,57 @@
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe.config
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.pdb
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.dll
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.pdb
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form1.resources
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Properties.Resources.resources
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.GenerateResource.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CopyComplete
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.exe
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe.config
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.dll
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form1.resources
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Properties.Resources.resources
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.exe
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form2.resources
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form1.resources
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form2.resources
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Properties.Resources.resources
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.GenerateResource.cache
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.exe
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.pdb
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe.config
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.pdb
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.dll
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.pdb
+C:\Study\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CopyComplete
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form1.resources
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Form2.resources
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.Properties.Resources.resources
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.GenerateResource.cache
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CoreCompileInputs.cache
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.exe
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.pdb
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe.config
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.exe
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\OITWindowsFormsApp.pdb
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.dll
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\bin\Debug\ClassLibrary1.pdb
+H:\РПМ\5\Лабораторная 5\OITWindowsFormsApp\OITWindowsFormsApp\obj\Debug\OITWindowsFormsApp.csproj.CopyComplete

@@ -1,0 +1,55 @@
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.dll
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.pdb
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+H:\РПМ\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.dll
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Korisnik\Downloads\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csprojAssemblyReference.cache
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.dll
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.dll
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.pdb
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\Time.dll
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\Time.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe.config
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.exe
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ConsoleAppTest.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.dll
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\bin\Debug\Time.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.csproj.CopyComplete
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.exe
+C:\Users\Korisnik\Downloads\Лабораторная 2\Лабораторная 2\ConsoleAppTest\ConsoleAppTest\obj\Debug\ConsoleAppTest.pdb

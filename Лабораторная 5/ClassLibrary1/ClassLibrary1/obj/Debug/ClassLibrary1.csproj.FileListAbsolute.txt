@@ -1,0 +1,18 @@
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Study\РПМ\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Korisnik\Downloads\Лабораторная 5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+H:\РПМ\5\Лабораторная 5\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

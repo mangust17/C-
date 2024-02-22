@@ -1,0 +1,29 @@
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Users\Korisnik\Downloads\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Users\329191-9\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Study\РПМ\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.dll
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\bin\Debug\ClassLibraryForArray.pdb
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csprojAssemblyReference.cache
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csproj.CoreCompileInputs.cache
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.dll
+C:\Users\329191-11\Downloads\Лабораторная 2\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.pdb
+H:\РПМ\Лабораторная 2\ClassLibraryForArray\ClassLibraryForArray\obj\Debug\ClassLibraryForArray.csprojAssemblyReference.cache

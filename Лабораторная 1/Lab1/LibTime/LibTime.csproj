@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Time">
+      <HintPath>..\..\ConsoleApp2\ConsoleApp2\bin\Debug\Time.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

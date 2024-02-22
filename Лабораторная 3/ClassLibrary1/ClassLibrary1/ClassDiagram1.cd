@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ClassLibrary1.Note">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAAAAAAgAAAQAAAAEEAAIAAAAEAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary1.Friend">
+    <Position X="12" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAgAAAAAEAAAEBAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ClassLibrary1.AddressBook">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEACAAAAAAAAAAAAAAAAABAQAAJIAg=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

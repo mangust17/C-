@@ -1,0 +1,18 @@
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.dll
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.pdb
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csprojAssemblyReference.cache
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.dll
+H:\РПМ\Лабораторная 4\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\bin\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\ArterialPressure\ArterialPressure\obj\Debug\ArterialPressure.pdb

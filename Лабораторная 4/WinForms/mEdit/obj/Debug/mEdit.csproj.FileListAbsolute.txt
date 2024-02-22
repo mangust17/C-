@@ -1,0 +1,85 @@
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\bin\Debug\mEdit.exe
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\bin\Debug\mEdit.pdb
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.exe
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.pdb
+F:\Культиин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\Тексты программ\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.pdb
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.exe
+E:\Лекции по РПМ 2022-2023\Лаб 4\Культин Н\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.SuggestedBindingRedirects.cache
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.exe
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe.config
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CopyComplete
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe.config
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.pdb
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.dll
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.pdb
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.AssemblyReference.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.SuggestedBindingRedirects.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CopyComplete
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.exe
+C:\Study\РПМ\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.exe
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe.config
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.exe
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.dll
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\bin\Debug\ArterialPressure.pdb
+H:\РПМ\Лабораторная 4 _ _ _ (4)\Лабораторная 4 _ _ _\Лабораторная 4 _ _\1kul_tin_n_b_microsoft_visual_c_v_zadachakh_i_primerakh\mEdit\mEdit\obj\Debug\mEdit.csproj.CopyComplete
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\mEdit.exe
+H:\РПМ\Лабораторная 4\Лабораторная 4 _ _ _\Лабораторная 4 _ _\WinForms\mEdit\mEdit\obj\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.csprojAssemblyReference.cache
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\WindowsFormsApplication1.Form2.resources
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.csproj.GenerateResource.cache
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.csproj.CoreCompileInputs.cache
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.exe
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4\WinForms\mEdit\bin\Debug\mEdit.exe.config
+H:\РПМ\Лабораторная 4\WinForms\mEdit\bin\Debug\mEdit.exe
+H:\РПМ\Лабораторная 4\WinForms\mEdit\bin\Debug\mEdit.pdb
+H:\РПМ\Лабораторная 4\WinForms\mEdit\bin\Debug\ArterialPressure.pdb
+H:\РПМ\Лабораторная 4\WinForms\mEdit\obj\Debug\mEdit.csproj.CopyComplete
